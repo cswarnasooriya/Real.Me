@@ -4,6 +4,7 @@ import logo_1 from '../assets/logo_1.png'
 import {Link} from 'react-scroll';
 import { IoMdMenu } from "react-icons/io";
 import { IoMdCloseCircleOutline } from "react-icons/io";
+import '../App.css';
 
 
 
