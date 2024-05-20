@@ -2,7 +2,7 @@ import about_img from '../assets/product_logo.png';
 import client_1 from '../assets/client_1.png';
 import client_2 from '../assets/client_3.png';
 import client_3 from '../assets/client_2.png';
-
+import product from '../assets/product.png';
 
 
 const Products = () => {
@@ -37,7 +37,7 @@ const Products = () => {
 
         
             <div className="md:w-1/3 gap-8">
-                <img src={about_img} alt="about Image" className="h-[450px] gap-6"/>
+                <img src={product} alt="about Image" className="h-[450px] gap-6"/>
             </div>
 
 
@@ -50,7 +50,7 @@ const Products = () => {
                     Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium illum facere harum laudantium quam, voluptatibus illo commodi doloremque ex suscipit, eligendi optio ad totam aliquam nobis dolorum dignissimos voluptatem eos. Lorem ipsum dolor, sit amet consectetur adipisicing elit. Obcaecati, sapiente? Porro minus totam ex, quas, laboriosam mollitia beatae rerum maiores possimus provident blanditiis, nam natus alias tenetur delectus. Exercitationem, delectus.
                     
                 </p>
-                <h5 className="text-brandPrimary text-xl font-semibold mb-2">Tim Smith </h5>
+                <h5 className="text-brandPrimary text-xl font-semibold mb-2">Chanuka Sandaruwan </h5>
                 <p className='text-base text-neutralGrey'>British dragon Boat Racing Associations</p>
 
                 <div className="mt-2">

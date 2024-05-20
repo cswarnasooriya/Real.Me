@@ -4,6 +4,7 @@ import Home from "./components/Home"
 import Services from "./components/Services"
 import About from "./components/About"
 import Products from "./components/Products"
+import Blog from "./components/Blog"
 
 
 
@@ -16,6 +17,7 @@ function App() {
      <Services/>
      <About/>
      <Products/>
+     <Blog/>
     </>
   )
 }
