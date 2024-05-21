@@ -36,6 +36,7 @@ const Navbar = () => {
   });
 
 //navItem array
+
   const navItems = [
     {link:"Home", path:"home"},
     {link:"Service", path:"service"},

@@ -7,7 +7,7 @@ import product from '../assets/product.png';
 
 const Products = () => {
   return (
-    <div className=''>
+    <div className='' id='product'>
       {/* about text */}
 
       <div className="px-4 lg:px-14 max-w-screen-4xl mx-auto mt-8">

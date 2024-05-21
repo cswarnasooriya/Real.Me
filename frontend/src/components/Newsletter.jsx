@@ -2,7 +2,7 @@
 
 const Newsletter = () => {
   return (
-    <div className="px-4 lg:px-14 max-w-screen-2xl mx-auto bg-neutralSilver py-16">
+    <div className="px-4 lg:px-14 max-w-screen-2xl mx-auto bg-neutralSilver py-16" id="testimonial">
 
 
       <div className="flex justify-center lg:w-2/5 mx-auto items-center">

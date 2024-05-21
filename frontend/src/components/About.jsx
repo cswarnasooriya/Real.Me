@@ -10,7 +10,7 @@ import logo_4 from '../assets/icon_14.png';
 
 const About = () => {
   return (
-    <div className=''>
+    <div className='' id='about'>
       {/* about text */}
 
       <div className="px-4 lg:px-14 max-w-screen-4xl mx-auto mt-8">
