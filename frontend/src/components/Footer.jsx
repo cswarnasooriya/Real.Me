@@ -25,7 +25,7 @@ const MyFooter = () => {
               </Footer.LinkGroup>
             </div>
             <div>
-              <Footer.Title title="Follow us" />
+              <Footer.Title title="Follow Us" />
               <Footer.LinkGroup col>
                 <Footer.Link href="#">Website</Footer.Link>
                 <Footer.Link href="#">Tiktok</Footer.Link>
